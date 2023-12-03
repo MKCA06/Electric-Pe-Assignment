@@ -16,3 +16,5 @@ Using the provided data, attempt to predict the uptime for the next day for a se
 5)Open-Ended Exploration:
 Feel free to conduct any additional analysis that you find insightful. You might explore correlations with external factors like local events, weather conditions, or other variables not included in the dataset.
 
+Documentation/Presentation is dont on GitBook:
+The Link for the same is given below->
